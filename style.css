@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000!important;
 }
 
 .container {
@@ -678,6 +678,7 @@ a {
 
 p {
     font-size: 16px;
+    text-align: justify;
 }
 
 .tight-width-whitespace {
@@ -780,7 +781,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #575757!important;
+    color: #000!important;
 }
 
 .btn-atomic-tangerine:hover {
