@@ -716,6 +716,10 @@ h3 {
     color: #333333!important;
 }
 
+blockquote > footer {
+    color: #333333;
+}
+
 .title {
     margin: auto;
     margin-bottom: 4%;
