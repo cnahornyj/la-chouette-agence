@@ -716,6 +716,13 @@ h3 {
     color: #333333!important;
 }
 
+.title {
+    margin: auto;
+    margin-bottom: 4%;
+    width: 75%;
+    color: #575757!important;
+}
+
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
@@ -756,6 +763,10 @@ h4 {
 .black-background {
     background-color: rgba(165, 147, 99, 0.7);
     padding: 40px 40px 40px 40px;
+}
+
+.bold {
+    font-weight: 700;
 }
 
 .bold-link {
