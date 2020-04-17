@@ -922,6 +922,9 @@ h4 {
         padding-left: 10px!important;
         padding-right: 10px!important;
     }
+    .partenaires {
+        margin: 1% 0 1% 0;
+    }
     .b-parallax {
         background-attachment: scroll;
     }
