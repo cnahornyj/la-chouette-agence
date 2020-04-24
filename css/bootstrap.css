@@ -188,6 +188,10 @@ p {
     text-align: center
 }
 
+.text-justify {
+    text-align: justify
+}
+
 ol,
 ul {
     margin-top: 0;

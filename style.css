@@ -706,7 +706,7 @@ p {
 }
 
 h2 {
-    font-size: 30px;
+    font-size: 24px;
     line-height: 1.4em;
 }
 
@@ -793,6 +793,9 @@ h4 {
 
 .tc-white {
     color: #F3976C!important;
+}
+
+.stroke {
     font-weight: 500;
     -webkit-text-stroke: 0.25px;
     -webkit-text-stroke-color: black;
