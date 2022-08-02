@@ -7,3 +7,5 @@ https://cnahornyj.github.io/la-chouette-agence/
 HTML / CSS / JAVASCRIPT
 
 @Openclassrooms
+
+## Les objectifs
